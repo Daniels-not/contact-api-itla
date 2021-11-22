@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_fetching_data",
+  "version": "1.0.0",
+  "description": "fetching data witn nodejs and express",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ramy campusano volquez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
