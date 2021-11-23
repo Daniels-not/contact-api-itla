@@ -1,4 +1,4 @@
-# Contact Manager v0.0.2 🔥
+# Contact API with Nodejs - Express - MongoDB 🔥
 ![GET](https://github.com/Daniels-not/contact-api-itla/blob/main/get.PNG) ![POST](https://github.com/Daniels-not/contact-api-itla/blob/main/POST.PNG)
 
 ## Instructions 📑
@@ -12,6 +12,8 @@ Make a Web service using the nodeJS express library that does the two basic oper
 - POST Contacts ✔️
 
 - DataBase to store contacs ✔️
+
+- Validations ✔️
 
 ## Technologies used in this project ❤️
 
