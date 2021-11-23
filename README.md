@@ -1,5 +1,5 @@
 # Contact Manager v0.0.2 🔥
-![]()
+![GET](https://github.com/Daniels-not/contact-api-itla/blob/main/get.PNG) ![POST](https://github.com/Daniels-not/contact-api-itla/blob/main/POST.PNG)
 
 ## Instructions 📑
 
